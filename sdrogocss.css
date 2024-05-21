@@ -1,0 +1,56 @@
+body {
+    margin: 100px;
+
+   nav {
+      background: #009578;
+      width: 100%;
+      height: 50px;
+      position: fixed;
+      top: 0;
+      left: 0;
+}
+
+
+ 
+    h1 {
+        font-size: 50px;
+        font-family: "impact", "Courier New", sans-serif;
+        font-style: oblique;
+        font-weight: normal;
+    }
+
+    h2 { 
+        font-style: oblique;
+        font-size: 26px;
+ }
+
+    ul {
+        font-size: 23px;
+        font-family: 'Times New Roman' , sans-serif;
+        font-style: oblique;
+        font-weight: bold;
+        line-height: 1.5;
+}
+
+    ol {
+        font-size: 18px;
+        font-family: 'Golos Text' , sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        line-height: 1.5;
+        color: #101010;
+  }
+  
+    p {
+        font-size: 18px;
+        font-family: 'Golos Text' , sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        line-height: 1.5;
+        color: #101010;
+        margin: 1.5em 0;
+}
+  
+ 
+
+}
